@@ -1,5 +1,5 @@
 
-
+# TimeCompleity =O(logn)
 def binarySearch(mylist,front,rear,ele):
 #     CHeck base case
     if rear>=front:
